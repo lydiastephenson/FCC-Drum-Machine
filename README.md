@@ -2,6 +2,8 @@
 
 Objective: Build an app that is functionally similar to this: <https://drum-machine.freecodecamp.rocks/>.
 
+Final Project: <https://fcc-drum-machine--lydia-stephenson.repl.co/>
+
 Fulfill the below user stories and get all of the tests to pass. Use whichever libraries or APIs you need. Give it your own personal style.
 
 1. I should be able to see an outer container with a corresponding id="drum-machine" that contains all other elements.
